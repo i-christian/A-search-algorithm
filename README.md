@@ -2,12 +2,19 @@
 
 This program visualizes the *A\* pathfinding algorithm*. The algorithm is used to find the shortest path between two points on a 2D grid. The user can create a maze on the grid and set the start and end points. The program then runs the A* algorithm and shows the shortest path between the two points.
 
+## :warning: Prerequisites
+
+* Must have `git` installed.
+* [git](https://git-scm.com/downloads)
+
 ## Installation
 
 To use this program, follow these steps:
 
 * Clone the repository:
 ```https://github.com/i-christian/A-star-Pathfinding-Algorithm-Visualisation```
+
+* [Python 3.10](https://www.python.org/downloads/release/python-31010/) - The python version used.
 
 * Install the required dependencies using pip:
 ```pip install pygame```
@@ -24,7 +31,9 @@ To use this program, follow these steps:
 
 ## Screenshots
 
-![Example Screenshot](/assets/images/screenshot.png)
+![Example Screenshot](/assets/images/before_run.png "Before the Algorithm was run")
+
+![Example Screenshot](/assets/images/after_run.png"After the Algorithm was run")
 
 ## Contributing
 
