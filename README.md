@@ -2,10 +2,19 @@
 
 This program visualizes the *A\* pathfinding algorithm*. The algorithm is used to find the shortest path between two points on a 2D grid. The user can create a maze on the grid and set the start and end points. The program then runs the A* algorithm and shows the shortest path between the two points.
 
+## Tests: heavy_check_mark:
+
+* [tests](./tests/): test files:
+    * [test_algorithm.py](./tests/test_algorithm.py)
+
+* To run the test:
+```python3 -m unittest discover -v -s tests```
+
 ## :warning: Prerequisites
 
 * Must have `git` installed.
 * [git](https://git-scm.com/downloads)
+* For linux user's: ```sudo apt-get install git```
 
 ## Installation
 
@@ -33,7 +42,7 @@ To use this program, follow these steps:
 
 ![Example Screenshot](/assets/images/before_run.png "Before the Algorithm was run")
 
-![Example Screenshot](/assets/images/after_run.png"After the Algorithm was run")
+![Example Screenshot](/assets/images/after_run.png "After the Algorithm was run")
 
 ## Contributing
 

@@ -23,7 +23,8 @@ def algorithm(draw, grid, start, end):
     g_score = {spot: float("inf") for row in grid for spot in row}
     g_score[start] = 0
 
-    f_score = {spot: float("inf") for row in grid for spot in row}
+    f_score = {spot: float("inf")
+               for row in grid for spot in row if spot != start}
     f_score[start] = h(start.get_pos(), end.get_pos())
 
     open_set_hash = {start}
