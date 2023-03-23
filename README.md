@@ -47,15 +47,27 @@ To use this program, follow these steps:
 5. Press the ***c key*** <kbd>c</kbd> to clear the grid.
 
 ## Screenshots
+<h1 align="center">After running the program</h1>
+<p align="center">python3 main.py</p>
+<p align="center">
+<img src="https://github.com/i-christian/A-star-Pathfinding-Algorithm-Visualisation/blob/main/assets/images/empty_grid.png" alt="Visualisation Grid">
+</p>
 
-<h1 align="center">Before the Algorthim was run</h1>
+<h1 align="center">Before the Algorithm was run</h1>
+<p>Draw walls on the grid by left-clicking and dragging the mouse. To remove a wall, right-click on it.</p>
 <p align="center">
 <img src="https://github.com/i-christian/A-star-Pathfinding-Algorithm-Visualisation/blob/main/assets/images/before_run.png" alt="Visualisation Grid">
 </p>
 
-<h1 align="center">After the Algorthim was run</h1>
+<h1 align="center">After you press the space key</h1>
+<h4 align="center">After the program run and finished</h4>
 <p align="center">
 <img src="https://github.com/i-christian/A-star-Pathfinding-Algorithm-Visualisation/blob/main/assets/images/after_run.png" alt="Visualisation Grid">
+</p>
+
+<h1 align="center"> you press c key</h1>
+<p align="center">
+<img src="https://github.com/i-christian/A-star-Pathfinding-Algorithm-Visualisation/blob/main/assets/images/empty_grid.png" alt="Visualisation Grid">
 </p>
 
 ## Contributing
