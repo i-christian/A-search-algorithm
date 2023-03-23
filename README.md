@@ -48,9 +48,15 @@ To use this program, follow these steps:
 
 ## Screenshots
 
-![Before the Algorithm was run](/assets/images/before_run.png "Before the Algorithm was run")
+<h1 align="center">Before the Algorthim was run</h1>
+<p align="center">
+<img src="https://github.com/i-christian/A-star-Pathfinding-Algorithm-Visualisation/blob/main/assets/images/before_run.png" alt="Visualisation Grid">
+</p>
 
-![After the Algorithm was run](/assets/images/after_run.png "After the Algorithm was run")
+<h1 align="center">After the Algorthim was run</h1>
+<p align="center">
+<img src="https://github.com/i-christian/A-star-Pathfinding-Algorithm-Visualisation/blob/main/assets/images/after_run.png" alt="Visualisation Grid">
+</p>
 
 ## Contributing
 
