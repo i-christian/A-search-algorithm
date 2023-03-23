@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-from model_visualisation import *
-from a_star_algorithm import algorithm
+from models.a_star_algorithm import algorithm
+from models.model_visualisation import *
 
 
 def main(win, width):

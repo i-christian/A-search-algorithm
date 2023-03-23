@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-from model_visualisation import *
+from models.model_visualisation import *
 
 
 def algorithm(draw, grid, start, end):
