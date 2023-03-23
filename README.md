@@ -4,7 +4,7 @@ This program visualizes the *A\* pathfinding algorithm*. The algorithm is used t
 
 
 ```
-A* Pathfinding Algorithm*:  
+A* Pathfinding Algorithm:  
 
 A* is a popular pathfinding algorithm used to find the shortest path between two points on a graph. It works by exploring the graph in a systematic way, keeping track of the total cost of each possible path from the starting point to the end point. The algorithm uses both the actual cost of a path (i.e. the distance between two points) and an estimate of the remaining cost (i.e. the heuristic) to determine which path to explore next. The heuristic is usually an estimate of the distance between a given point and the end point, and is used to prioritize paths that are closer to the end point. A* is known for its efficiency and is widely used in games and robotics.
 
@@ -41,8 +41,8 @@ To use this program, follow these steps:
 
 1. Run the program:
 ```python3 main.py```
-2. Draw walls on the grid by left-clicking and dragging the mouse. To remove a wall, right-click on it.
-3. Set the start and end points by left-clicking on the cells.
+2. Set the start and end points by left-clicking on the cells.
+3. Draw walls on the grid by left-clicking and dragging the mouse. To remove a wall, right-click on it.
 4. Press the ***space key*** <kbd>space</kbd> to run the algorithm.
 5. Press the ***c key*** <kbd>c</kbd> to clear the grid.
 
