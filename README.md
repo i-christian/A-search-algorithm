@@ -2,6 +2,14 @@
 
 This program visualizes the *A\* pathfinding algorithm*. The algorithm is used to find the shortest path between two points on a 2D grid. The user can create a maze on the grid and set the start and end points. The program then runs the A* algorithm and shows the shortest path between the two points.
 
+
+```
+A* Pathfinding Algorithm*:  
+
+A* is a popular pathfinding algorithm used to find the shortest path between two points on a graph. It works by exploring the graph in a systematic way, keeping track of the total cost of each possible path from the starting point to the end point. The algorithm uses both the actual cost of a path (i.e. the distance between two points) and an estimate of the remaining cost (i.e. the heuristic) to determine which path to explore next. The heuristic is usually an estimate of the distance between a given point and the end point, and is used to prioritize paths that are closer to the end point. A* is known for its efficiency and is widely used in games and robotics.
+
+```
+
 ## Tests: heavy_check_mark:
 
 * [tests](./tests/): test files:
@@ -13,7 +21,7 @@ This program visualizes the *A\* pathfinding algorithm*. The algorithm is used t
 ## :warning: Prerequisites
 
 * Must have `git` installed.
-* [git](https://git-scm.com/downloads)
+* Download from here: [git](https://git-scm.com/downloads)
 * For linux user's: ```sudo apt-get install git```
 
 ## Installation
@@ -40,9 +48,9 @@ To use this program, follow these steps:
 
 ## Screenshots
 
-![Example Screenshot](/assets/images/before_run.png "Before the Algorithm was run")
+![Before the Algorithm was run](/assets/images/before_run.png "Before the Algorithm was run")
 
-![Example Screenshot](/assets/images/after_run.png "After the Algorithm was run")
+![After the Algorithm was run](/assets/images/after_run.png "After the Algorithm was run")
 
 ## Contributing
 
