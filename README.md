@@ -65,7 +65,8 @@ To use this program, follow these steps:
 <img src="https://github.com/i-christian/A-star-Pathfinding-Algorithm-Visualisation/blob/main/assets/images/after_run.png" alt="Visualisation Grid">
 </p>
 
-<h1 align="center"> you press c key</h1>
+<h1 align="center">When you press c key</h1>
+<p> When you press c key after the program finished running </p>
 <p align="center">
 <img src="https://github.com/i-christian/A-star-Pathfinding-Algorithm-Visualisation/blob/main/assets/images/empty_grid.png" alt="Visualisation Grid">
 </p>
