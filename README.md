@@ -60,7 +60,7 @@ To use this program, follow these steps:
 </p>
 
 <h1 align="center">After you press the space key</h1>
-<h4 align="center">After the program ran and finished</h4>
+<h4 align="center">After the program finished it's run</h4>
 <p align="center">
 <img src="https://github.com/i-christian/A-star-Pathfinding-Algorithm-Visualisation/blob/main/assets/images/after_run.png" alt="Visualisation Grid">
 </p>
