@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 import unittest
 from unittest.mock import MagicMock
-from a_star_algorithm import algorithm
-from model_visualisation import Spot
+from models.a_star_algorithm import algorithm
+from models.model_visualisation import Spot
 
 
 class TestSpot(unittest.TestCase):
